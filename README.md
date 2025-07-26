@@ -99,27 +99,6 @@ flutter run
 
 ---
 
-## 📸 Sample Screenshots
-
-> *(Optional: Add these later by placing images in a `screenshots/` folder)*
-
-```
-screenshots/
-├── home.png
-├── object_detection.png
-├── text_result.png
-```
-
-Use Markdown to display them like this:
-
-```markdown
-![Home](screenshots/home.png)
-![Object Detection](screenshots/object_detection.png)
-![Text Result](screenshots/text_result.png)
-```
-
----
-
 ## 📂 Recommended `.gitignore`
 
 ### For `VisualAI_backend/`
