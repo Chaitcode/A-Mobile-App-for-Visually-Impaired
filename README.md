@@ -143,3 +143,8 @@ Feel free to fork the repo, open an issue, or submit a pull request! 💡
 ```
 
 ---
+Contributers:
+- [@Vaishav15](https://github.com/Vaishav15)
+- [@Prathameshsawai](https://github.com/Prathameshsawai)
+- [@Mandar843](https://github.com/Mandar843)
+
